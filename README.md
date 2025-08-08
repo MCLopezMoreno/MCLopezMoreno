@@ -16,7 +16,7 @@
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mclopezmoreno&theme=dark&show_icons=true&locale=en" alt="mclopezmoreno" />
   <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mclopezmoreno&theme=dark&" alt="mclopezmoreno" /> 
+  
   <br></br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mclopezmoreno&theme=dark&show_icons=true&locale=en&layout=compact" alt="mclopezmoreno" />
 </td>
